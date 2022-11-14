@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>M7Plus</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="اهلا بك في" />
         <p className="description">
-          M7Plus <code>pages/index.js</code>
+           <code>M7Plus</code>
         </p>
       </main>
 
