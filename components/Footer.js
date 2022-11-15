@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Made by @0pskw
+      M7Plus Studio  حقوق الطبع والنشر 
       </footer>
     </>
   )
