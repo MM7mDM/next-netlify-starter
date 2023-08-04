@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title"تكدر تشوف افلام باعلى دقة" />
         <p className="description">
-           <code>M7Plus</code>
+           <code>Movie4u</code>
         </p>
       </main>
 
