@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="اهلا بك في" />
+        <Header title"تكدر تشوف افلام باعلى دقة" />
         <p className="description">
            <code>M7Plus</code>
         </p>
