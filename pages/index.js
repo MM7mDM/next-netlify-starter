@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>M7Plus</title>
+        <title>استمتع</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
